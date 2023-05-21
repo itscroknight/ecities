@@ -1,6 +1,4 @@
-Thanks for downloading this template!
+Ecities
+When visiting a new city, we don't have knowledge about the touristic places of the city and we tend to only visit the most popular places of the city. Knowledge about a place is very important.
 
-Template Name: ZenBlog
-Template URL: https://bootstrapmade.com/zenblog-bootstrap-blog-template/
-Author: BootstrapMade.com
-License: https:///bootstrapmade.com/license/
+To get that knowledge we introduced "Ecities", a web-based application that will provide you with the required information.
